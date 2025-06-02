@@ -63,7 +63,7 @@ int main()
 
     Engine::Run();
 
-    // Clean up allocated memory (if not managed by SM internally)
+ ხ
     for (auto obj : createdObjects)
     {
         delete obj;

@@ -63,7 +63,7 @@ int main()
 
     Engine::Run();
 
- ხ
+ 
     for (auto obj : createdObjects)
     {
         delete obj;

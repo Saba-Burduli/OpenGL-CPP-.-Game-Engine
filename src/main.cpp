@@ -69,7 +69,7 @@ int main()
         delete obj;
     }
 
-    Engine::Shutdown(); // Optional: add this if you have such a function
+    Engine::Shutdown(); 
 
     return 0;
 }

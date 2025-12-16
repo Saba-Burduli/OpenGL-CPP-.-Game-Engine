@@ -1,4 +1,4 @@
-# Solvency Enigne  
+# Solvency Engine  
 **WIP Custom Game Engine**
 
 The project's **Makefile** should work on both Windows and Linux, though Windows requires a specific include setup that will be addressed in the future.
